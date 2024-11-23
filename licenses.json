@@ -5,5 +5,12 @@
         "license": "viper-857024",
         "blacklisted": true,
         "reason": "Test"
+    },
+    "viper-13174238": {
+        "discord_id": "-",
+        "cfx_key": "cfxk_1qJlMFmsrl56HZcWczuPS_4TojW8",
+        "license": "viper-13174238",
+        "blacklisted": false,
+        "reason": ""
     }
 }
