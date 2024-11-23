@@ -4,7 +4,7 @@
         "cfx_key": "cfxk_1qJlMFmsrl56HZcWczuPS_4TojW8",
         "ip_address": "45.13.227.3",
         "license": "viper-22929167",
-        "blacklisted": true,
-        "reason": "Cooler Typ"
+        "blacklisted": false,
+        "reason": ""
     }
 }
