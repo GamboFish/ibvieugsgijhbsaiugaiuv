@@ -31,7 +31,7 @@
         "discord_id": "-",
         "cfx_key": "cfxk_1qJlMFmsrl56HZcWczuPS_4TojW8",
         "license": "viper-61532740",
-        "blacklisted": false,
-        "reason": ""
+        "blacklisted": true,
+        "reason": "lol"
     }
 }
